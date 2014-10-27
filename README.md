@@ -4,21 +4,21 @@ Joshua Ferge
 
 # How many points have you earned?
 
-100/100
+84/100
 
 (Make your own calculation and replace the number 0 with the points you think you've earned.)
 
 # How many hours have you spent on this?
 
-fill-in-your-answer
+4 hrs
 
 # When did you first start working on this week's learning challenges?
 
-fill-in-your-answer
+Saturday
 
 # What is the most difficult part about this week's challenge?
 
-fill-in-your-answer
+Some of the mongodb stuff was hard
 
 # Show and tell (8 points)
 
@@ -86,7 +86,7 @@ Could use the same algorithm to determine whether or not people can handle a hou
 
 ### 2 (6 points)
 
-![terminal output of mongodb query](screenshot.png?raw=true)
+![terminal output of mongodb query](check2.png?raw=true)
 
 ## Challenge 1 (4 points x 10 = 40 points)
 
@@ -148,6 +148,8 @@ Could use the same algorithm to determine whether or not people can handle a hou
 ### 10 (4 points)
 
 > db.course_events.find({'type' : { $in:['IssuesEvent']},'payload.issue.comments' : {$gt : 0} }, {'payload.issue.user.login':1 , 'payload.issue.comments':1})
+
+
 
 ![screenshot](chal110.png?raw=true)
 
