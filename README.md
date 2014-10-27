@@ -36,27 +36,27 @@ Could use the same algorithm to determine whether or not people can handle a hou
 
 # 1. (3 points)
 
-![image](image.png?raw=true)
+![image](d3check1.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](d31.html)
 
 # 2. (3 points)
 
-![image](image.png?raw=true)
+![image](d3check2.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](d32.html)
 
 # 3. (3 points)
 
-![image](image.png?raw=true)
+![image](d3check3.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](d33.html)
 
 # 4. (3 points)
 
-![image](image.png?raw=true)
+![image](d3check4.png?raw=true)
 
-[checkpoint](checkpoint.html)
+[checkpoint](d34.html)
 
 ## Challenges (4 points x 3 = 12 points)
 
